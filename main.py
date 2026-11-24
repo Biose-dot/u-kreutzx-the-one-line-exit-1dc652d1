@@ -1,7 +1,7 @@
 import os
 
 
-ENTRY = "I hereby resign, effective immediately, because the coffee machine has more job security than I do."
+ENTRY = "This is my one-line resignation: I found a job where the meetings could have been an email, and the email could have been nothing."
 
 
 def main():
