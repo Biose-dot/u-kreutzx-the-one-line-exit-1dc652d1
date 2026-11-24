@@ -10,9 +10,9 @@ One line of resignation letter: the last day, the revoked printer access, and th
 
 `main.py` (Python 3, stdlib only) writes the entry to `/output/entry.txt`:
 
-> I resign, effective immediately — my two weeks' notice is in the meeting invite I declined, titled 'quick sync'.
+> I hereby resign: my last day is Friday, my printer access is already revoked, and my goodbye cake is in the cloud.
 
-The text is 112 characters (UTF-8, within the 1–140 limit), one line, no trailing newline.
+The text is 114 characters (UTF-8, within the 1–140 limit), one line, no trailing newline.
 
 ## Run
 
