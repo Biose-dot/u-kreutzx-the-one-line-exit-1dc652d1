@@ -1,6 +1,6 @@
 import os
 
-TEXT = 'I quit. My last two weeks start now, but my motivation left six months ago — it sent its regards.'
+TEXT = 'This is my resignation — effective immediately, my enthusiasm has already left the building and taken the good pens.'
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
