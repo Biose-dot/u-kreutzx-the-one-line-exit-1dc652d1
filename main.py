@@ -7,7 +7,7 @@ Deterministic, stdlib only, no network.
 """
 import os
 
-ENTRY = "I hereby resign: my last day is Friday, my printer access is already gone, and my goodbye cake is in the cloud."
+ENTRY = "I hereby resign: my last day is Friday, my printer access is already revoked, and my goodbye cake is in the cloud."
 
 
 def main() -> None:
